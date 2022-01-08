@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "env",
+    "es2017"
+  ],
+  "plugins": [
+    "transform-es2015-modules-commonjs",
+    "transform-export-extensions",
+    "transform-async-to-generator",
+    "transform-class-properties"
+  ],
+  "sourceMaps": true
+}
